@@ -13,4 +13,4 @@ The files and data used within Github can be found in the topic section. This se
 [^1]: Repo=Repository
 - [VERSIONING](#versioning)
 
-If there is any versions of the code that doesnt work or that conflicts itself its important to know what to do. When pushing code and working on it with multiple people some conflicts may occur. Different versions can be pushed onto the repository that conflict each other. When this happens you will need to designate one person to chose which version of the code is best 
+If there is any versions of the code that doesnt work or that conflicts itself its important to know what to do. When pushing code and working on it with multiple people some conflicts may occur. Different versions can be pushed onto the repository that conflict each other. When this happens you will need to designate one person to chose which version of the code is best and push that version into the repository.
